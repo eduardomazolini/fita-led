@@ -1,0 +1,12 @@
+{
+ "user_code": "xxxxxxx",
+ "terminal_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+ "endpoint": "https://apigw.tuyaus.com",
+ "token": {
+  "t": 0,
+  "uid": "xxxxxxxxxxxxxxxxxxxxxx",
+  "expire_time": 7200,
+  "access_token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "refresh_token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+ }
+}

@@ -1,0 +1,14 @@
+# segredos (chave local do emissor IR e login do app Tuya)
+ir-emissor.json
+tuya/segredos.json
+
+# material de pesquisa (APKs de terceiros, análises)
+privado/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# MACs das fitas (gerado por natal.py procurar / gattdemo.py procurar)
+fitas.json
